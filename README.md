@@ -2,7 +2,7 @@
 Flutter shurjoPay SDK Example
 
 [![pub package](https://img.shields.io/pub/v/shurjopay_sdk.svg)](https://pub.dartlang.org/packages/shurjopay_sdk)
-![GitHub](https://img.shields.io/github/license/arzrasel/flutter-toast-view.svg)
+![GitHub](https://img.shields.io/github/license/rzrasel/flutter-shurjopay-sdk-example.svg)
 
 ### GIT Command
 ```git_command
