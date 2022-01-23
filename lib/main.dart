@@ -40,7 +40,7 @@ class MyHomePageState extends State<MyHomePage> {
       ),
       body: Center(
         child: ElevatedButton(
-          child: const Text('Launch screen'),
+          child: const Text("Pay By shurjoPay SDK"),
           onPressed: () {
             onShurjopaySdk(context);
           },
@@ -58,7 +58,7 @@ class MyHomePageState extends State<MyHomePage> {
       currency: "BDT",
       amount: 5,
       orderId: "PPD$orderId",
-      discountAmount: "0",
+      discountAmount: 0,
       discPercent: 0,
       customerName: "customer name",
       customerPhone: "01xxxxxxxxx",
